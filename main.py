@@ -14,6 +14,7 @@ def menu():
     """)
 
 def main():
+    print("第二次提交测试！")
     sm=StudentManager()
     while True:
         menu()
